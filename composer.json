@@ -13,6 +13,9 @@
             "role": "Developer"
         }
     ],
+    "autoload": {
+        "psr-0" : { "PEG": "code/" }
+    },
     "require": {
         "php": ">=5.2.0"
     }
