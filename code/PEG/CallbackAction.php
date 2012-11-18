@@ -1,7 +1,7 @@
 <?php
 /**
  * @package PEG
- * @author anatoo<anatoo@nequal.jp>
+ * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  * @version $Id: CallbackAction.php 1546 2010-01-20 13:10:44Z anatoo $
  */

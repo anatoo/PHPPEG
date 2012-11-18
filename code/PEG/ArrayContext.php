@@ -1,7 +1,7 @@
 <?php
 /**
  * @package PEG
- * @author anatoo<anatoo@nequal.jp>
+ * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  * @version $Id: ArrayContext.php 1522 2010-01-17 07:02:00Z anatoo $
  */

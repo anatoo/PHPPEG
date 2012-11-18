@@ -1,7 +1,7 @@
 <?php
 /**
  * @package PEG
- * @author anatoo<anatoo@nequal.jp>
+ * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  * @version $Id: Memoize.php 782 2009-05-02 18:35:18Z anatoo $
  */

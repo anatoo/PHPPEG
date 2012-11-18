@@ -3,7 +3,7 @@
  * このクラスは、静的メソッドから様々なパーサやコンテキスト等を生成するのに使われる。
  * 
  * @package PEG
- * @author anatoo<anatoo@nequal.jp>
+ * @author anatoo<anatoo@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  * @version $Id: PEG.php 1611 2010-02-03 05:04:37Z anatoo $
  */

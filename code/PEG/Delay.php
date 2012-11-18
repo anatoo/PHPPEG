@@ -1,7 +1,7 @@
 <?php
 /**
  * @package PEG
- * @author anatoo<anatoo@nequal.jp>
+ * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  * @version $Id: Delay.php 1611 2010-02-03 05:04:37Z anatoo $
  */
