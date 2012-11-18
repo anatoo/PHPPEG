@@ -1,0 +1,19 @@
+{
+    "name": "PHPPEG/PHPPEG",
+    "type": "library",
+    "description": "PEG Parser Combinator for PHP5",
+    "keywords": ["parser","peg"],
+    "homepage": "http://github.com/anatoo/PHPPEG",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mitsunori Kubota"
+            "email": "anatoo.jp@gmail.com",
+            "homepage": "http://anatoo.jp",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    }
+}
