@@ -1,5 +1,5 @@
 <?php
-include_once dirname(__FILE__) . '/../code/PEG.php';
+include_once dirname(__FILE__) . '/../vendor/autoload.php';
 
 /**
  * 括弧の対応をとる再帰的なパーサのサンプル。

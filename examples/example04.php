@@ -1,9 +1,8 @@
 <?php
+include_once dirname(__FILE__) . '/../vendor/autoload.php';
 /**
  * 行頭に#があったら無視するパーサのサンプル
  */
-
-include_once dirname(__FILE__) . '/../code/PEG.php';
 
 $line = PEG::line();
 $ignore = PEG::drop(PEG::andalso('#', $line));
