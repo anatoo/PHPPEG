@@ -14,7 +14,7 @@
         }
     ],
     "autoload": {
-        "psr-0" : { "PEG": "code/" }
+        "psr-0" : { "PEG": "src/" }
     },
     "require": {
         "php": ">=5.2.0"
