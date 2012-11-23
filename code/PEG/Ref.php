@@ -4,7 +4,7 @@
  * @package PEG
  * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- * @version $Id: Ref.php 959 2009-06-14 16:57:43Z anatoo $
+ *
  */
 
 class PEG_Ref implements PEG_IParser

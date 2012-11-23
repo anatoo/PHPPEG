@@ -3,7 +3,7 @@
  * @package PEG
  * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- * @version $Id: IParser.php 655 2009-04-12 07:26:42Z anatoo $
+ *
  */
 
 interface PEG_IParser

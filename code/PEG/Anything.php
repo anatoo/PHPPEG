@@ -3,7 +3,7 @@
  * @package PEG
  * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- * @version $Id: Anything.php 1518 2010-01-16 07:07:44Z anatoo $
+ *
  */
 
 /**

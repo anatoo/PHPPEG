@@ -5,36 +5,8 @@
  * @package PEG
  * @author anatoo<anatoo@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- * @version $Id: PEG.php 1611 2010-02-03 05:04:37Z anatoo $
+ *
  */
-
-include_once dirname(__FILE__) . '/PEG/IContext.php';
-include_once dirname(__FILE__) . '/PEG/IParser.php';
-
-include_once dirname(__FILE__) . '/PEG/Action.php';
-include_once dirname(__FILE__) . '/PEG/And.php';
-include_once dirname(__FILE__) . '/PEG/Anything.php';
-include_once dirname(__FILE__) . '/PEG/ArrayContext.php';
-include_once dirname(__FILE__) . '/PEG/CallbackAction.php';
-include_once dirname(__FILE__) . '/PEG/Cache.php';
-include_once dirname(__FILE__) . '/PEG/Char.php';
-include_once dirname(__FILE__) . '/PEG/Choice.php';
-include_once dirname(__FILE__) . '/PEG/Curry.php';
-include_once dirname(__FILE__) . '/PEG/EOS.php';
-include_once dirname(__FILE__) . '/PEG/Failure.php';
-include_once dirname(__FILE__) . '/PEG/Lookahead.php';
-include_once dirname(__FILE__) . '/PEG/Many.php';
-include_once dirname(__FILE__) . '/PEG/Memoize.php';
-include_once dirname(__FILE__) . '/PEG/Not.php';
-include_once dirname(__FILE__) . '/PEG/Optional.php';
-include_once dirname(__FILE__) . '/PEG/Ref.php';
-include_once dirname(__FILE__) . '/PEG/Sequence.php';
-include_once dirname(__FILE__) . '/PEG/StringContext.php';
-include_once dirname(__FILE__) . '/PEG/Token.php';
-include_once dirname(__FILE__) . '/PEG/Util.php';
-include_once dirname(__FILE__) . '/PEG/ErrorReporter.php';
-include_once dirname(__FILE__) . '/PEG/InstantParser.php';
-include_once dirname(__FILE__) . '/PEG/Delay.php';
 
 class PEG
 {

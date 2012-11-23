@@ -3,7 +3,7 @@
  * @package PEG
  * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- * @version $Id: Char.php 1965 2010-07-17 17:15:34Z anatoo $
+ *
  */
 
 class PEG_Char implements PEG_IParser

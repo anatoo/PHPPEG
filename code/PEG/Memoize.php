@@ -3,7 +3,7 @@
  * @package PEG
  * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- * @version $Id: Memoize.php 782 2009-05-02 18:35:18Z anatoo $
+ *
  */
 
 class PEG_Memoize implements PEG_IParser

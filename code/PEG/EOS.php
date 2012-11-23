@@ -3,7 +3,7 @@
  * @package PEG
  * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- * @version $Id: EOS.php 1363 2009-11-05 06:18:37Z anatoo $
+ *
  */
 
 /**

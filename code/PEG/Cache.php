@@ -3,7 +3,7 @@
  * @package PEG
  * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- * @version $Id: Cache.php 785 2009-05-03 09:02:28Z anatoo $
+ *
  */
 
 class PEG_Cache

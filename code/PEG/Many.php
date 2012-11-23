@@ -3,7 +3,7 @@
  * @package PEG
  * @author anatoo<anatoo.jp@gmail.com>
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
- * @version $Id: Many.php 1517 2010-01-15 14:58:20Z anatoo $
+ *
  */
 
 class PEG_Many implements PEG_IParser
